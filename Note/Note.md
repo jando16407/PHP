@@ -35,6 +35,8 @@ Go to Documents folder
 
 
 Ref:
-https://www.adrianprieto.com/installing-apache-php-and-mysql-on-mac-os-x/
-https://tecadmin.net/install-php-macos/
-https://medium.com/@JohnFoderaro/how-to-set-up-apache-in-macos-sierra-10-12-bca5a5dfffba
+https://www.adrianprieto.com/installing-apache-php-and-mysql-on-mac-os-x/.  
+
+https://tecadmin.net/install-php-macos/.  
+
+https://medium.com/@JohnFoderaro/how-to-set-up-apache-in-macos-sierra-10-12-bca5a5dfffba.  
